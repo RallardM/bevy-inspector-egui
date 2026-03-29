@@ -1,3 +1,5 @@
+// vendor\bevy_inspector_egui\crates\bevy-inspector-egui\src\reflect_inspector\mod.rs
+
 //! General-purpose machinery for displaying [`Reflect`] types using [`egui`]
 //!
 //! # Examples
